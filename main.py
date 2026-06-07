@@ -1,1 +1,1 @@
-print('Chuong trinh may tinh bat dau...')
+print("He thong dang bao tri, vui long quay lai sau!")
